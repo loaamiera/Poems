@@ -24,13 +24,10 @@
         margin: auto ;
     }
     header{
-        display: inline-flex;
-        flex-direction: column ;
-        vertical-align: middle;
-        justify-content: middle;
         text-align: center ;
-        justify-content: center ;
         margin: auto ;
+        float: center;
+        justify-content: center;
         max-width: 600px ;
     }
     main{
