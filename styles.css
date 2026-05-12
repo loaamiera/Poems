@@ -49,10 +49,7 @@
         text-align: center ;
         float: center ;
         justify-content: center;
-        margin-left: auto ;
-        margin-right: auto ;
-        margin-top: auto ;
-        margin-bottom: 2% ;
+        margin: auto ;
         color: #666666 ; 
     }
     h3{
@@ -193,7 +190,7 @@
 
     }
     h1, h2, h3{
-        margin-top: 2%;
+        margin: auto ;
         text-align: center ;
         vertical-align: top;
         justify-content: top;
