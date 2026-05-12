@@ -68,7 +68,7 @@
         clear: both ;
     }
     footer{
-        margin-top: none ;
+        margin-top: 0px ;
         margin-left: auto ;
         margin-right: auto ;
         margin-bottom: auto ;
@@ -234,8 +234,8 @@
     }
     footer{
         max-width: 600px ;
-        padding-top: 2% ;
-        margin-top: none ;
+        padding: 2% ;
+        margin-top: 0px ;
         margin-left: auto ;
         margin-right: auto ;
         margin-bottom: auto ;
@@ -376,7 +376,7 @@
     body{
                 height: 1280px ;}
 footer{
-        margin-top: none ;
+        margin-top: 0px ;
         margin-left: auto ;
         margin-right: auto ;
         margin-bottom: auto ;
