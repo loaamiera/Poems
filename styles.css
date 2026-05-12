@@ -327,7 +327,6 @@
     #wrapper{
         display: inline-flex;
         background-color: white !important ;
-        min-height: 200px;
         max-width: 1000px ;
         padding: 2em ;
         margin: auto ;
