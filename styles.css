@@ -41,7 +41,6 @@
         float: center;
         justify-content: center;
         align-items: center ;
-        height: 100% ;
     }
     body{
         margin: auto ;
@@ -216,7 +215,6 @@
         min-width: 600px ;
         max-width: 1000px ;
         color: #9966FF ;
-        height: 100% ;
     }
 
     body{
