@@ -39,7 +39,7 @@
         color: #9966FF ;
         margin: auto ;
         display: inline-flex ;
-
+        justify-content: center;
         float: center;
         justify-content: center;
         align-items: center ;
@@ -221,6 +221,7 @@
         max-width: 1000px ;
         color: #9966FF ;
         height: 100% ;
+        justify-content: center;
     }
 
     body{
@@ -377,6 +378,7 @@
     main{
         color: #9966FF ;
         height: 100% ;
+        justify-content: center;
     }
     body{
                 height: 427px ;}
