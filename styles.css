@@ -68,7 +68,10 @@
         clear: both ;
     }
     footer{
-        margin: auto ;
+        margin-top: none ;
+        margin-left: auto ;
+        margin-right: auto ;
+        margin-bottom: auto ;
         padding: 2% ;
         text-align: center ;
         float: center ;
@@ -232,7 +235,10 @@
     footer{
         max-width: 600px ;
         padding-top: 2% ;
-        margin: auto ;
+        margin-top: none ;
+        margin-left: auto ;
+        margin-right: auto ;
+        margin-bottom: auto ;
         text-align: center ;
         background-color: #333333 ;
         .foot{
@@ -370,7 +376,10 @@
     body{
                 height: 1280px ;}
 footer{
-        margin: auto ;
+        margin-top: none ;
+        margin-left: auto ;
+        margin-right: auto ;
+        margin-bottom: auto ;
         padding: 2% ;
         max-width: 1000px ;
         text-align: center ;
