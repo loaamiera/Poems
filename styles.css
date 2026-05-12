@@ -13,7 +13,6 @@
         margin: auto ;
         display: inline-flex;
         text-align: center ;
-        justify-content: center; /* Centers horizontally (on the main axis) */
         align-items: center; 
     }
     html{
@@ -186,7 +185,6 @@
         padding: 1em ;
         float: center ; 
         margin: auto ;
-        justify-content: center; /* Centers horizontally (on the main axis) */
         align-items: center; 
     }
     html{
@@ -341,7 +339,6 @@
         margin: auto ;
         float:center ;
         text-align: center ;
-        justify-content: center ;
         align-items: center ;
         
         
