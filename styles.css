@@ -45,7 +45,7 @@
     }
     body{
         margin: auto ;
-        height: 600px ;
+        height: 200px ;
     }
     h1, h2, h3{
         text-align: center ;
@@ -220,7 +220,7 @@
     }
 
     body{
-                height: 1000px ;
+                height: 733px ;
     }
     body a:link {color: #9966FF ;}
     body a:visited {color: #666666 ;}
@@ -374,7 +374,7 @@
         height: 100% ;
     }
     body{
-                height: 1280px ;}
+                height: 427px ;}
 footer{
         margin-top: 0px ;
         margin-left: auto ;
