@@ -32,7 +32,6 @@
         max-width: 600px ;
     }
     main{
-        max-width: 600px ;
         color: #9966FF ;
         display: inline-flex ;
     }
@@ -59,8 +58,7 @@
     body a:hover { color: #9966FF ;
                 inset: #333333 ; }
     body{
-        display: inline-flex;
-        flex-direction: column ;
+        max-width: 600px ;
     }
     .colin{
         font-size: 50em ;
