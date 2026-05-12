@@ -4,6 +4,7 @@
         align-items: center;
         justify-content: center;
         vertical-align: center;
+        margin: auto ;
     }
     #wrapper{
         background-color: white !important ;
@@ -172,6 +173,7 @@
         align-items: center;
         justify-content: center;
         vertical-align: center;
+        margin: auto ;
     }
     #wrapper{
         background-color: white !important ;
@@ -323,6 +325,7 @@
         align-items: center;
         justify-content: center;
         vertical-align: center;
+        margin: auto ;
     }
     #wrapper{
         display: inline-flex;
