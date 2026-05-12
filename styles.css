@@ -13,7 +13,6 @@
         margin: auto ;
         display: inline-flex;
         text-align: center ;
-        align-items: center; 
     }
     html{
         background-color: lightblue;
@@ -185,7 +184,6 @@
         padding: 1em ;
         float: center ; 
         margin: auto ;
-        align-items: center; 
     }
     html{
         background-color: lightblue
@@ -339,7 +337,6 @@
         margin: auto ;
         float:center ;
         text-align: center ;
-        align-items: center ;
         
         
     }
