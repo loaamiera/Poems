@@ -44,7 +44,7 @@
     }
     body{
         margin: auto ;
-        height: 50% ;
+        height: 600px ;
     }
     h1, h2, h3{
         text-align: center ;
@@ -213,6 +213,10 @@
         max-width: 1000px ;
         color: #9966FF ;
     }
+
+    body{
+                height: 1000px ;
+    }
     body a:link {color: #9966FF ;}
     body a:visited {color: #666666 ;}
     body a:hover { color: #9966FF ;
@@ -363,7 +367,8 @@
     main{
         color: #9966FF ;
     }
-
+    body{
+                height: 1280px ;}
 footer{
         margin: auto ;
         padding: 2% ;
