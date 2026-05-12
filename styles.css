@@ -8,7 +8,6 @@
     }
     #wrapper{
         background-color: white !important ;
-        max-width: 600px ;
         padding: 0.5em ;
         float: center ; 
         margin: auto ;
@@ -17,11 +16,21 @@
     }
     html{
         background-color: lightblue;
+        max-width: 600px ;
 
     }
     h1, h2, h3{
         text-align: center ;
-        margin: auto ;
+        float: center ;
+        justify-content: center;
+        margin-left: auto ;
+        margin-right: auto ;
+        margin-top: auto ;
+        margin-bottom: 2% ;
+        color: #666666 ; 
+    }
+    h3{
+        max-height: 33% ;
     }
     header{
         text-align: center ;
@@ -52,9 +61,6 @@
     body a:visited {color: #666666 ;}
     body a:hover { color: #9966FF ;
                 inset: #333333 ; }
-    body{
-        max-width: 600px ;
-    }
     .colin{
         font-size: 50em ;
     }
