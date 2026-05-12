@@ -69,6 +69,7 @@
         float: center ;
         background-color: #333333 ;
         color: white ;
+        justify-content: center ;
         .foot{
             padding-top: 10%;
         }
