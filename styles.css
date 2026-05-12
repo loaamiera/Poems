@@ -8,8 +8,6 @@
     }
     #wrapper{
         background-color: white !important ;
-        min-height: 100px;
-        min-width: 150px ;
         max-width: 600px ;
         padding: 0.5em ;
         float: center ; 
