@@ -38,6 +38,10 @@
     main{
         color: #9966FF ;
         display: inline-flex ;
+        margin: auto ;
+    }
+    body{
+        margin: auto ;
     }
     h1, h2, h3{
         text-align: center ;
