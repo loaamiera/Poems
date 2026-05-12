@@ -65,12 +65,13 @@
         clear: both ;
     }
     footer{
-        display: inline-flex ;
         margin: auto ;
+        padding: 2% ;
+        max-width: 1000px ;
         text-align: center ;
-        color: white ;
-        background-color: #333333 ;
         float: center ;
+        background-color: #333333 ;
+        color: white ;
         .foot{
             padding-top: 10%;
         }
