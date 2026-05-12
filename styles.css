@@ -38,6 +38,10 @@
     main{
         color: #9966FF ;
         margin: auto ;
+        display: inline-flex ;
+        float: center;
+        justify-content: center;
+        align-items: center ;
     }
     body{
         margin: auto ;
