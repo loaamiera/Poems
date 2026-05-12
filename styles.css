@@ -3,7 +3,7 @@
         display : grid;
         align-items: center;
         justify-content: center;
-        vertical-align: middle;
+        vertical-align: center;
         margin: auto ;
     }
     #wrapper{
@@ -177,7 +177,7 @@
         display : grid;
         align-items: center;
         justify-content: center;
-        vertical-align: middle;
+        vertical-align: center;
         margin: auto ;
         place-items: center;
     }
@@ -338,7 +338,7 @@
         display : grid;
         align-items: center;
         justify-content: center;
-        vertical-align: middle;
+        vertical-align: center;
         margin: auto ;
     }
     #wrapper{
