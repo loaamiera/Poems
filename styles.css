@@ -12,6 +12,8 @@
         padding: 0.5em ;
         float: center ; 
         margin: auto ;
+        display: inline-flex;
+        text-align: center ;
     }
     html{
         background-color: lightblue;
